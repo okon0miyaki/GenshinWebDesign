@@ -1,0 +1,2 @@
+# GenshinWebDesign
+Anything about Wanderer
